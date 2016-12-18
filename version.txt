@@ -1,4 +1,4 @@
 0.0.1 - first push
 0.0.3 - first troubles
 0.0.5 - just for lulz
-0.0.6 - lohi raki
+0.0.6 - lohi raki     \/     0.0.6 - branch test
